@@ -49,6 +49,46 @@ git push -u origin main
 Would you like me to scaffold a bilingual-ready repo layout for DMIL training modules 
 
 
+---------------------------------------
+
+
+Caused by inclusion of YAML to make site
+
+
+You're hitting a GitHub security restriction: your Personal Access Token (PAT) doesn't have the required workflow scope to push changes to GitHub Actions workflows (like .github/workflows/build-preview.yaml).
+
+🔐 Why this happens
+GitHub protects workflow files because they can trigger automated actions. To push changes to .github/workflows/*, your token must explicitly include the workflow scope.
+
+✅ How to fix it
+1. Create a new Personal Access Token with workflow scope
+- Go to GitHub Developer Settings
+- Click "Generate new token (classic)"
+- Select scopes:
+- ✅ repo (full access to repositories)
+- ✅ workflow (needed to push workflow files)
+- Generate and copy the token
+2. Update your Git credentials
+
+
+f you're using HTTPS:
+git remote set-url origin https://<your-token>@github.com/youruser/your-repo.git
+
+
+Or use a credential manager:
+git credential-manager-core erase
+git credential-manager-core store
+
+
+Then push again:
+git push -u origin main
+
+
+
+
+
+
+=======================================
 
 …or create a new repository on the command line
 
@@ -91,4 +131,6 @@ export default {
 - Navigate to the public_html directory.
 
 
+================
 
+git remote set-url origin https://obs@github.com/ashboro/quartzvite.git
