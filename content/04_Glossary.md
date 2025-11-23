@@ -4,43 +4,103 @@
 
 # Glossary of Key Terms
 
-## Learning Objectives
-Goals that state what one will be able to do by the end of the section, such as explaining why carbon is important for life and describing the role of functional groups.
-
----
-
 ## Macromolecules
-Many complex molecules that comprise cells, including proteins, nucleic acids (RNA and DNA), carbohydrates, and lipids, which are a subset of organic molecules.
+Complex molecules, such as proteins, nucleic acids (like RNA and DNA), carbohydrates, and lipids, which are vital components of cells.
 
 ---
 
-## Organic molecules
-Any carbon-containing liquid, solid, or gas that is especially important for life.
+## Organic molecule
+Any substance, whether liquid, solid, or gas, that contains carbon, and is especially vital for life.
 
 ---
 
 ## Carbon
-The fundamental component and basic structural 'backbone' for all biological macromolecules, possessing unique properties that allow it to form covalent bonds with up to four different atoms.
+The foundational element that serves as the main structural component, or 'backbone,' for all biological macromolecules.
 
 ---
 
-## Covalent bonds
-Bonds that carbon atoms form with other atoms (up to four) by sharing electrons to satisfy the octet rule, due to having an incomplete outermost electron shell.
+## Carbon atom structure
+An atom with an atomic number of 6, possessing two electrons in its inner shell and four valence electrons in its second (outermost) shell.
 
 ---
 
 ## Octet rule
-The principle that carbon atoms satisfy by forming up to four covalent bonds with other atoms, resulting in a filled outermost electron shell.
+The principle stating that atoms tend to form bonds so they have eight electrons in their outermost electron shell to achieve stability.
+
+---
+
+## Covalent bonds
+Chemical bonds formed by the sharing of electron pairs between atoms, which carbon atoms can form up to four of.
 
 ---
 
 ## Methane (CH4)
-A molecule with the chemical formula CH4, provided as an example where carbon forms four single covalent bonds with hydrogen atoms, resulting in a filled outermost shell.
+The simplest hydrocarbon molecule, featuring a central carbon atom bonded by single covalent bonds to four different hydrogen atoms, resulting in a tetrahedral geometry.
+
+---
+
+## Tetrahedral geometry
+A three-dimensional molecular shape where a central carbon atom forms four single bonds, positioning the bonded atoms at the vertices of a tetrahedron with approximately 109.5° angles.
 
 ---
 
 ## Hydrocarbons
-A term mentioned as a topic heading in the document, without an explicit definition provided in the given text.
+Organic molecules made entirely of carbon and hydrogen, capable of storing large amounts of energy in their covalent bonds.
+
+---
+
+## Hydrocarbon chains
+A series of bonds between carbon atoms that can be straight, branched, or unbranched, forming the main structure of large molecules.
+
+---
+
+## Single covalent bond
+A carbon-carbon bond formed by sharing one pair of electrons, allowing rotation around its axis and leading to tetrahedral geometry around the carbon.
+
+---
+
+## Double covalent bond
+A carbon-carbon bond formed by sharing two pairs of electrons, resulting in a flat (planar) molecular arrangement and restricting rotation around the bond.
+
+---
+
+## Triple covalent bond
+A carbon-carbon bond formed by sharing three pairs of electrons, leading to a straight (linear) molecular arrangement and highly restricted rotation.
+
+---
+
+## Planar arrangement
+A molecular geometry where atoms, particularly those involved in a double bond, lie in a single flat plane.
+
+---
+
+## Linear arrangement
+A molecular geometry where atoms, particularly those involved in a triple bond, are arranged in a straight line.
+
+---
+
+## Aliphatic hydrocarbons
+Hydrocarbons characterized by linear chains of carbon atoms or rings where all carbon-carbon bonds within the ring are single bonds.
+
+---
+
+## Aromatic hydrocarbons
+Hydrocarbons consisting of closed rings of carbon atoms that have alternating single and double bonds, such as the benzene ring.
+
+---
+
+## Benzene ring
+A specific type of aromatic hydrocarbon, typically a six-membered carbon ring with alternating single and double bonds, found in various biological molecules and identified as a carcinogen.
+
+---
+
+## Carcinogen
+A substance that has the potential to cause cancer.
+
+---
+
+## Conformation
+The specific three-dimensional shape or spatial arrangement of a molecule, which is crucial to how large molecules (macromolecules) function.
 
 ---
 

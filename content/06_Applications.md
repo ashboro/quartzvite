@@ -4,45 +4,33 @@
 
 # Real-World Applications
 
-## Technology
+## Daily Life / Energy
 
-Carbon fiber composites, utilizing carbon's ability to form strong covalent bonds as a structural backbone, are extensively used in the aerospace and automotive industries to create lightweight yet high-strength components, such as aircraft fuselages, wings, car chassis, and body panels.
-
----
-
-## Technology
-
-Advanced carbon-based nanomaterials like graphene and carbon nanotubes, which exploit carbon's unique structural properties and versatile bonding, are employed in next-generation electronics (e.g., transistors, flexible electronics) and in enhancing energy storage devices like batteries and supercapacitors due to their exceptional electrical and thermal conductivity.
+Hydrocarbons, such as methane in natural gas and the components of gasoline, are primarily used as combustible fuel sources for electricity generation, heating homes, and powering transportation like cars and airplanes.
 
 ---
 
-## Medicine
+## Technology / Materials Science
 
-In medicine, carbon fiber, built upon carbon's stable covalent bonds and structural versatility, is integral to durable, lightweight, biocompatible, and radiolucent orthopedic implants (e.g., plates, rods, screws), prosthetics, and patient tables for medical imaging equipment.
-
----
-
-## Medicine
-
-Carbon-based nanomaterials, such as carbon nanotubes and nanodiamonds, are being developed as advanced drug carriers for targeted therapies like cancer treatment. These materials leverage carbon's versatile bonding and large surface area to improve drug loading and delivery while enhancing biocompatibility.
+Carbon's ability to form diverse covalent bonds leads to materials like diamond (extreme hardness for industrial cutting), graphite (softness and electrical conductivity for lubricants and battery electrodes), and advanced carbon nanomaterials such as carbon nanotubes and graphene, used in high-strength composites for aircraft and space structures, as well as in electronics and sensors.
 
 ---
 
-## Engineering
+## Medicine / Pharmaceuticals
 
-In civil engineering, carbon fiber reinforcing bars and wraps, deriving their strength and corrosion resistance from carbon's strong covalent bonds, are used to strengthen concrete structures and replace traditional steel reinforcement in elements such as columns and bridges.
-
----
-
-## Daily Life
-
-Hydrocarbons, which are organic molecules with a carbon backbone, serve as fundamental fuel sources in daily life. Examples include natural gas (methane) for heating and cooking, and gasoline for transportation.
+Aromatic hydrocarbons, characterized by their stable ring structures, are foundational for synthesizing many medications, including analgesics (like aspirin), anti-inflammatory drugs, and various pharmaceuticals used to treat serious illnesses. Phenol derivatives are also used as antiseptics and disinfectants.
 
 ---
 
-## Daily Life
+## Daily Life / Food & Nutrition
 
-Many everyday consumer products, including plastics for packaging, containers, toys, and synthetic fibers for clothing, are made from polymers. These polymers are complex macromolecules whose structural backbone is predominantly composed of strong carbon-carbon bonds, demonstrating carbon's role as a basic structural component.
+Carbohydrates, which are organic compounds primarily made of carbon, hydrogen, and oxygen, serve as the body's main energy source. Simple sugars provide quick energy, while complex carbohydrates like starch offer sustained energy release. Lipids, another carbon-based macromolecule, are crucial for energy storage, insulation, and forming cell membranes, and are found in foods like oils and seeds.
+
+---
+
+## Industrial Chemistry / Manufacturing
+
+Hydrocarbons are vital raw materials in the petrochemical industry, serving as building blocks for producing plastics (e.g., polyethylene, polypropylene), synthetic fibers (like nylon and polyester), rubber, solvents, and detergents.
 
 ---
 

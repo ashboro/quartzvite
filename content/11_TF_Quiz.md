@@ -4,7 +4,7 @@
 
 # True/False Quiz
 
-### 1. Carbon is the fundamental component and 'backbone' for all biological macromolecules such as proteins and nucleic acids.
+### 1. Carbon is considered the foundational building block for all biological macromolecules, such as proteins and DNA.
 
 - [ ] True
 - [ ] False
@@ -14,13 +14,29 @@
 
 **Correct Answer:** True
 
-*Explanation: The document explicitly states, 'The fundamental component for all of these macromolecules is carbon,' and that it is 'ideal to serve as the basic structural component, or “backbone,” of the macromolecules.'*
+*Explanation: The document explicitly states, 'Carbon is the foundational building block for all these macromolecules' which include proteins, nucleic acids (like RNA and DNA), carbohydrates, and lipids.*
 
 </details>
 
 ---
 
-### 2. An organic molecule is defined as any molecule containing only hydrogen and oxygen.
+### 2. To satisfy the octet rule, a carbon atom typically forms up to four covalent bonds with other atoms.
+
+- [ ] True
+- [ ] False
+
+<details>
+<summary>View Answer & Explanation</summary>
+
+**Correct Answer:** True
+
+*Explanation: The document explains that carbon has four electrons in its outermost shell and, 'To satisfy the octet rule... carbon atoms can form up to four covalent bonds with other atoms.'*
+
+</details>
+
+---
+
+### 3. Hydrocarbons are defined as organic molecules composed entirely of carbon and oxygen.
 
 - [ ] True
 - [ ] False
@@ -30,13 +46,13 @@
 
 **Correct Answer:** False
 
-*Explanation: The document defines 'organic molecules' as 'any carbon-containing liquid, solid, or gas' that is important for life, not exclusively hydrogen and oxygen.*
+*Explanation: The document defines hydrocarbons as 'organic molecules made entirely of carbon and hydrogen,' not carbon and oxygen.*
 
 </details>
 
 ---
 
-### 3. Carbon atoms can form up to four covalent bonds with other atoms.
+### 4. Carbon-carbon single bonds allow for free rotation around the bond's axis, while double bonds result in a planar arrangement and cannot rotate.
 
 - [ ] True
 - [ ] False
@@ -46,13 +62,13 @@
 
 **Correct Answer:** True
 
-*Explanation: The text clearly states, 'The carbon atom has unique properties that allow it to form covalent bonds to as many as four different atoms,' and 'carbon atoms can form up to four covalent bonds with other atoms.'*
+*Explanation: The document states, 'Single bonds, like those in ethane, are able to rotate. Double bonds, like those in ethene, cannot rotate, so the atoms on either side are locked in place,' and also describes double bonds leading to a 'planar, or flat' shape.*
 
 </details>
 
 ---
 
-### 4. Carbon atoms have a complete outermost electron shell, making them inert.
+### 5. Aromatic hydrocarbons consist of closed rings of carbon atoms that have only single bonds.
 
 - [ ] True
 - [ ] False
@@ -62,23 +78,7 @@
 
 **Correct Answer:** False
 
-*Explanation: The document states that 'Individual carbon atoms have an incomplete outermost electron shell,' which is why they readily form bonds to satisfy the octet rule, rather than being inert.*
-
-</details>
-
----
-
-### 5. The methane molecule (CH4) is used as an example to show how carbon's four covalent bonds result in a filled outermost shell.
-
-- [ ] True
-- [ ] False
-
-<details>
-<summary>View Answer & Explanation</summary>
-
-**Correct Answer:** True
-
-*Explanation: The document uses methane (CH4) as an example, explaining that 'Each of its four hydrogen atoms forms a single covalent bond with the carbon atom by sharing a pair of electrons. This results in a filled outermost shell.'*
+*Explanation: The document defines aromatic hydrocarbons as consisting of 'closed rings of carbon atoms that have alternating single and double bonds,' in contrast to aliphatic hydrocarbons which have only single bonds in their rings.*
 
 </details>
 
