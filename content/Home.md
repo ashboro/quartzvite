@@ -2,6 +2,7 @@
 
 Welcome to your generated study kit! This page is the central hub for all the content created from your document. Use the links below to navigate to the different sections.
 
+
 ## Core Content
 
 - [[00_Formal_Lesson_Plan|Formal Lesson Plan (Backward Design)]]

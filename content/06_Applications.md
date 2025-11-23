@@ -2,6 +2,7 @@
 
 ---
 
+
 # Real-World Applications
 
 ## Daily Life / Energy

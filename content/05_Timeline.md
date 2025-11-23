@@ -2,6 +2,7 @@
 
 ---
 
+
 # Timeline of Discoveries
 
 ## 1776: Discovery and isolation of methane gas

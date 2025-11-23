@@ -2,6 +2,7 @@
 
 ---
 
+
 # Short Answer Quiz
 
 ### 1. Carbon's ability to form four stable covalent bonds is highlighted as crucial for its role as the 'backbone' of macromolecules. If carbon could only form two covalent bonds, how would this fundamentally limit the complexity and diversity of biological molecules compared to what exists?

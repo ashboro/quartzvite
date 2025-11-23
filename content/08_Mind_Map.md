@@ -2,6 +2,7 @@
 
 ---
 
+
 # Mind Map
 
 ![[assets/mind_map_2.png]]
