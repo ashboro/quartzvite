@@ -2,81 +2,87 @@
 
 ---
 
-
 # Key Terms & Concepts
 
-- Carbon's Role in Biological Molecules
-  - Organic Molecule
-    - Definition: Substance containing carbon
-    - Vital for life
-  - Macromolecules
-    - Proteins
-    - Nucleic acids
-      - RNA
-      - DNA
-    - Carbohydrates
-    - Lipids
-  - Foundational building block
-- Carbon Atom Structure
-  - Atomic number: 6
-  - Electron distribution
-    - 2 inner shell
-    - 4 outer shell (valence)
-  - Octet Rule
-    - Achieve 8 electrons in outermost shell
-  - Covalent bonds
-    - Forms up to four
-    - Forms strong bonds
-  - Flexibility (main structural component)
-  - Methane (CH4) example
-    - Carbon bonded to 4 hydrogen atoms
-    - Tetrahedral geometry
-- Hydrocarbons
-  - Definition: Made entirely of carbon and hydrogen
-  - Energy storage
-    - Numerous covalent bonds
-    - Released when molecules burn (oxidize)
-  - Molecular shape (conformation)
-    - Crucial to how they function
-- Hydrocarbon Chains: Types and Geometries
-  - Chain structures
-    - Straight chains
-    - Branched chains
-    - Unbranched chains
-    - Combinations (of chains and rings)
-  - Carbon-carbon bond types
-    - Single covalent bonds
-      - Suffix: -ane
-      - Geometry: Tetrahedral
-      - Characteristic: Allows rotation around bond axis
-      - Example: Ethane
-    - Double covalent bonds
-      - Suffix: -ene
-      - Geometry: Planar (flat)
-      - Characteristic: Cannot rotate
-      - Example: Ethene
-    - Triple covalent bonds
-      - Suffix: -yne
-      - Geometry: Linear (straight)
-      - Characteristic: Highly restricted rotation
-      - Example: Ethyne
-  - Nomenclature
-    - Prefixes (e.g., eth- for two carbons)
-    - Suffixes (-ane, -ene, -yne for bond type)
-- Hydrocarbon Rings: Aliphatic and Aromatic
-  - Aliphatic hydrocarbons
-    - Characteristics: Linear chains OR rings with only single bonds
-    - Ring examples: Cyclopentane, Cyclohexane
-  - Aromatic hydrocarbons
-    - Characteristics: Closed rings with alternating single and double bonds
-    - Benzene ring example
-      - Incorporated into biological molecules
-      - Biological examples: amino acids, cholesterol, hormones (estrogen, testosterone)
-      - Other examples: herbicide 2,4-D
-      - Health risk: Carcinogen
-  - Mixed structures
-    - Contain both aliphatic and aromatic parts
-    - Example: Beta-carotene
+- Lesson Unit
+  - Evaluating Statements about Rational and Irrational Numbers
+  - Formative Assessment Lesson
+  - Mathematical Goals
+    - Assess student reasoning
+    - Identify student difficulties
+    - Assist students in reasoning
+    - Finding examples (rational and irrational)
+    - Reasoning with properties of numbers
+- Common Core State Standards
+  - Standards for Mathematical Content
+    - N-RN: Use properties of rational and irrational numbers
+  - Standards for Mathematical Practice
+    - 1. Make sense of problems and persevere
+    - 2. Reason abstractly and quantitatively
+    - 3. Construct viable arguments and critique reasoning
+    - 5. Use appropriate tools strategically
+    - 6. Attend to precision
+    - 7. Look for and make use of structure
+    - 8. Look for and express regularity in repeated reasoning
+- Lesson Structure
+  - Before the lesson (Individual Assessment)
+    - Assessment task: Rational or Irrational?
+    - Reviewing student work (Teacher)
+    - Formulate questions for improvement (Teacher)
+  - During the lesson (Collaborative Work & Discussion)
+    - Collaborative small-group work: Always, Sometimes or Never True?
+    - Whole-class discussion
+  - Follow-up lesson (Individual Improvement)
+    - Improve individual solutions to initial task
+    - Second, similar task
+- Key Concepts and Tasks
+  - Rational Numbers
+    - Definition
+    - Examples
+    - Decimal representations (terminating/repeating)
+    - Fraction of integers
+  - Irrational Numbers
+    - Definition
+    - Examples
+    - Decimal representations (non-repeating non-terminating)
+    - Cannot be written as fraction of integers
+  - Evaluating Statements
+    - Always True
+    - Sometimes True
+    - Never True
+  - Reasoning and Justification
+    - Finding examples
+    - Constructing arguments
+    - Critiquing reasoning
+    - Conjectures
+    - Proof (concept of)
+    - Range of examples (integers, fractions, decimals, negative, radicals, pi)
+  - Common Issues for Students
+    - Distinguishing rational/irrational
+    - Not attempting questions
+    - Not providing examples
+    - Limited range of examples
+    - Empirical reasoning (false generalizations)
+  - Application Contexts
+    - Rectangle perimeter and area
+    - Hypotenuse of a right triangle
+- Materials Required
+  - Mini-whiteboard, pen, eraser
+  - Rational or Irrational? task sheet
+  - Rational or Irrational? (revisited) task sheet
+  - Always, Sometimes or Never True task sheet
+  - Poster Headings
+  - Large sheet of paper
+  - Scissors
+  - Glue stick
+  - Rational and Irrational Numbers hint sheet
+  - Extension Task
+  - Calculators
+  - Projectable resource
+- Time Needed
+  - 15 minutes (Before Lesson)
+  - 60 minutes (Main Lesson)
+  - 20 minutes (Follow-up Lesson)
 
 
 ---

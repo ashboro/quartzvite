@@ -2,106 +2,90 @@
 
 ---
 
-
 # Glossary of Key Terms
 
-## Macromolecules
-Complex molecules, such as proteins, nucleic acids (like RNA and DNA), carbohydrates, and lipids, which are vital components of cells.
+## Rational Number
+A number that can always be written as a fraction of two integers (p/q, where q is not zero). Its decimal representation is either terminating or repeating.
 
 ---
 
-## Organic molecule
-Any substance, whether liquid, solid, or gas, that contains carbon, and is especially vital for life.
+## Irrational Number
+A number that cannot be written as a fraction of two integers. Its decimal representation is non-terminating and non-repeating.
 
 ---
 
-## Carbon
-The foundational element that serves as the main structural component, or 'backbone,' for all biological macromolecules.
+## Formative Assessment Lesson
+A lesson unit designed to help teachers assess student understanding and reasoning, identify common difficulties, and provide targeted assistance to improve learning, rather than assigning a summative score.
 
 ---
 
-## Carbon atom structure
-An atom with an atomic number of 6, possessing two electrons in its inner shell and four valence electrons in its second (outermost) shell.
+## Properties of Rational and Irrational Numbers
+The rules governing how rational and irrational numbers behave under arithmetic operations (addition, subtraction, multiplication, division), determining whether the result of such operations is rational or irrational.
 
 ---
 
-## Octet rule
-The principle stating that atoms tend to form bonds so they have eight electrons in their outermost electron shell to achieve stability.
+## Always True
+A classification for a mathematical statement that holds true for all possible cases and requires a general proof to be definitively established.
 
 ---
 
-## Covalent bonds
-Chemical bonds formed by the sharing of electron pairs between atoms, which carbon atoms can form up to four of.
+## Sometimes True
+A classification for a mathematical statement that holds true for at least one case but is false for at least one other case. This is established by providing one true example and one false example.
 
 ---
 
-## Methane (CH4)
-The simplest hydrocarbon molecule, featuring a central carbon atom bonded by single covalent bonds to four different hydrogen atoms, resulting in a tetrahedral geometry.
+## Never True
+A classification for a mathematical statement that does not hold true for any possible case and requires a general proof to be definitively established.
 
 ---
 
-## Tetrahedral geometry
-A three-dimensional molecular shape where a central carbon atom forms four single bonds, positioning the bonded atoms at the vertices of a tetrahedron with approximately 109.5° angles.
+## Conjecture
+An educated guess or statement formed based on observations and examples, but not yet rigorously proven.
 
 ---
 
-## Hydrocarbons
-Organic molecules made entirely of carbon and hydrogen, capable of storing large amounts of energy in their covalent bonds.
+## Proof
+A rigorous, logical argument that demonstrates the truth or falsity of a mathematical statement for all possible cases.
 
 ---
 
-## Hydrocarbon chains
-A series of bonds between carbon atoms that can be straight, branched, or unbranched, forming the main structure of large molecules.
+## Example
+A specific instance or set of values used to illustrate or support a mathematical statement or conjecture.
 
 ---
 
-## Single covalent bond
-A carbon-carbon bond formed by sharing one pair of electrons, allowing rotation around its axis and leading to tetrahedral geometry around the carbon.
+## Counterexample
+A specific instance that disproves a general mathematical statement; finding a single counterexample is sufficient to show a statement is not 'Always True'.
 
 ---
 
-## Double covalent bond
-A carbon-carbon bond formed by sharing two pairs of electrons, resulting in a flat (planar) molecular arrangement and restricting rotation around the bond.
+## Common Core State Standards (CCSS) N-RN
+A specific content standard in the Common Core State Standards for Mathematics that focuses on students' ability to use the properties of rational and irrational numbers.
 
 ---
 
-## Triple covalent bond
-A carbon-carbon bond formed by sharing three pairs of electrons, leading to a straight (linear) molecular arrangement and highly restricted rotation.
+## Mathematical Practice Standards
+A set of eight standards within the Common Core State Standards that describe varieties of expertise that mathematics educators should seek to develop in their students, including reasoning, precision, and argument construction.
 
 ---
 
-## Planar arrangement
-A molecular geometry where atoms, particularly those involved in a double bond, lie in a single flat plane.
+## Empirical Reasoning
+A type of reasoning that relies on observations and specific examples to form conclusions, which can lead to false generalizations if not rigorously supported by proof.
 
 ---
 
-## Linear arrangement
-A molecular geometry where atoms, particularly those involved in a triple bond, are arranged in a straight line.
+## Mini-whiteboards
+A teaching tool used for quick, informal student responses and immediate feedback during a lesson.
 
 ---
 
-## Aliphatic hydrocarbons
-Hydrocarbons characterized by linear chains of carbon atoms or rings where all carbon-carbon bonds within the ring are single bonds.
+## Rational or Irrational? Task
+An individual assessment task given before the lesson to evaluate students' initial understanding of rational and irrational numbers, including definitions and application to geometric properties.
 
 ---
 
-## Aromatic hydrocarbons
-Hydrocarbons consisting of closed rings of carbon atoms that have alternating single and double bonds, such as the benzene ring.
-
----
-
-## Benzene ring
-A specific type of aromatic hydrocarbon, typically a six-membered carbon ring with alternating single and double bonds, found in various biological molecules and identified as a carcinogen.
-
----
-
-## Carcinogen
-A substance that has the potential to cause cancer.
-
----
-
-## Conformation
-The specific three-dimensional shape or spatial arrangement of a molecule, which is crucial to how large molecules (macromolecules) function.
+## Always, Sometimes or Never True Task
+A collaborative group activity where students classify mathematical statements about rational and irrational numbers into categories based on whether they are always, sometimes, or never true, providing examples and justifications.
 
 ---
 

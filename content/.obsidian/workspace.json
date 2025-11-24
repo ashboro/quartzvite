@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "0aecb7c2e4d6918a",
+    "id": "c1343901ec9b058d",
     "type": "split",
     "children": [
       {
-        "id": "e6fd20122e1f3ca6",
+        "id": "df8aa32c055e20be",
         "type": "tabs",
         "children": [
           {
-            "id": "b1c02f4676d0bb48",
+            "id": "0fdb91a9fb20fc0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "02_Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "a6fb8f3bd636f820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "title": "02_Outline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9923f28e95f0853e",
+    "id": "6cd1f5f30c6021f0",
     "type": "split",
     "children": [
       {
-        "id": "fb0040a8c228de3f",
+        "id": "a5a0a48886740ff9",
         "type": "tabs",
         "children": [
           {
-            "id": "8011daf8c4ed204c",
+            "id": "0b9153f81576e364",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "4f176e227840181f",
+            "id": "38b6dd74054c7ea5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "71117e7eedf0905f",
+            "id": "84b7cb49f62d0efa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "3bcdc676689a8089",
+    "id": "f3374320f37e885f",
     "type": "split",
     "children": [
       {
-        "id": "8f0836ee9c7e4a29",
+        "id": "e1d492fca7c98d4f",
         "type": "tabs",
         "children": [
           {
-            "id": "f4bdd5d6ba8e3567",
+            "id": "c11e2df6f64e0ef8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "02_Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 02_Outline"
             }
           },
           {
-            "id": "e98ae315be55a07f",
+            "id": "8a2ce33aa44677b3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "02_Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from 02_Outline"
             }
           },
           {
-            "id": "c06dc73eb0e5449e",
+            "id": "a9806ac086690bfc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +137,7 @@
             }
           },
           {
-            "id": "c6524953dc107899",
+            "id": "8b29d29904131e5d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,18 +151,18 @@
             }
           },
           {
-            "id": "683c0065d9d34c18",
+            "id": "498c9d3ff7fa62d0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "02_Outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 02_Outline"
             }
           }
         ]
@@ -198,22 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a6fb8f3bd636f820",
+  "active": "0fdb91a9fb20fc0b",
   "lastOpenFiles": [
-    "Pasted image 20251123081412.png",
-    "Home.md",
-    "Notes.md",
-    "04_Glossary.md",
-    "03_Study_Guide.md",
-    "99_Image_Gallery.md",
-    "01_Summary.md",
-    "assets/extracted_upload_2.png",
-    "assets/extracted_upload_1.png",
-    "00_Formal_Lesson_Plan.md",
-    "06_Applications.md",
-    "12_SA_Quiz.md",
     "08_Mind_Map.md",
-    "05_Timeline.md",
-    "02_Outline.md"
+    "index.md",
+    "Home.md"
   ]
 }

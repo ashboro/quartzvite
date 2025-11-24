@@ -2,94 +2,93 @@
 
 ---
 
-
 # Multiple Choice Quiz
 
-### 1. What is the atomic number of carbon, and how are its electrons distributed in its shells according to the document?
+### 1. Which of the following characteristics *best* defines an irrational number according to the document's implied definitions?
 
-- [ ] Atomic number 6; four electrons in the inner shell and two in the outer shell.
-- [ ] Atomic number 6; two electrons in the inner shell and four in the outer shell.
-- [ ] Atomic number 12; six electrons in the inner shell and six in the outer shell.
-- [ ] Atomic number 4; two electrons in the inner shell and two in the outer shell.
+- [ ] A number that can always be written as a fraction of two integers.
+- [ ] A number whose decimal representation is terminating or repeating.
+- [ ] A number whose decimal representation is non-terminating and non-repeating.
+- [ ] Any real number that is not a positive integer.
 
 <details>
 <summary>View Answer & Explanation</summary>
 
-**Correct Answer:** Atomic number 6; two electrons in the inner shell and four in the outer shell.
+**Correct Answer:** A number whose decimal representation is non-terminating and non-repeating.
 
-*Explanation: The document states that carbon has an atomic number of 6, meaning six electrons, with the first two electrons occupying the inner shell and four electrons remaining in the second (outermost) shell.*
+*Explanation: Page T-3, in the 'Common issues' table, clarifies that 'An irrational number can never be written as a fraction of integers. It always has a non-repeating non-terminating decimal.' This directly points to the decimal representation as the distinguishing characteristic.*
 
 </details>
 
 ---
 
-### 2. According to the text, what is a primary characteristic of hydrocarbons regarding energy?
+### 2. When assessing students' initial individual work on the 'Rational or Irrational?' task, what does the teacher guide strongly recommend *not* doing?
 
-- [ ] They are known for absorbing energy, making them excellent coolants.
-- [ ] The numerous covalent bonds between atoms store a large amount of energy, which is released upon oxidation.
-- [ ] They primarily store energy in their ionic bonds, which are easily broken.
-- [ ] They are used in artist materials because they require very little energy to synthesize.
+- [ ] Collect students' written work for review.
+- [ ] Make informal notes on student difficulties.
+- [ ] Score students' work with grades.
+- [ ] Formulate questions to help students improve their solutions.
 
 <details>
 <summary>View Answer & Explanation</summary>
 
-**Correct Answer:** The numerous covalent bonds between atoms store a large amount of energy, which is released upon oxidation.
+**Correct Answer:** Score students' work with grades.
 
-*Explanation: The document explicitly states, 'The numerous covalent bonds between atoms in hydrocarbons store a large amount of energy, which is released when these molecules burn (oxidize).'*
+*Explanation: Page T-2, under 'Assessing students’ responses,' explicitly states: 'We strongly suggest that you do not score students’ work, as research shows that this is counterproductive.'*
 
 </details>
 
 ---
 
-### 3. Which of the following correctly describes the geometry and rotational freedom associated with a carbon-carbon double bond?
+### 3. What is required to conclusively establish that a statement is 'Sometimes True' during the collaborative task?
 
-- [ ] Tetrahedral shape with free rotation.
-- [ ] Planar shape with restricted rotation.
-- [ ] Linear shape with free rotation.
-- [ ] Bent shape with no rotation.
+- [ ] A formal mathematical proof demonstrating its conditional nature.
+- [ ] Finding at least one example for which the statement is true and at least one example for which it is false.
+- [ ] Observing that the statement holds for most, but not all, of the examples tried.
+- [ ] A majority vote within the small group, supported by various examples.
 
 <details>
 <summary>View Answer & Explanation</summary>
 
-**Correct Answer:** Planar shape with restricted rotation.
+**Correct Answer:** Finding at least one example for which the statement is true and at least one example for which it is false.
 
-*Explanation: The document explains that double bonds result in a 'flat (planar) arrangement' and 'cannot rotate, so the atoms on either side are locked in place.'*
+*Explanation: Page T-4, in the 'Suggested Lesson Outline' under 'Now explore the reasoning involved in the task,' explicitly details: 'What did you need to do to show the statement was sometimes true? [Find an example for which the statement is true and an example for which it is false. This is established with certainty once there is one true example and one false example.]'*
 
 </details>
 
 ---
 
-### 4. How does an aliphatic hydrocarbon ring primarily differ from an aromatic hydrocarbon ring, based on the provided text?
+### 4. A student tests the statement 'The sum of two irrational numbers is always irrational.' They use $\sqrt{2} + \sqrt{3} = \sqrt{2} + \sqrt{3}$ (irrational) and $\pi + 2\pi = 3\pi$ (irrational). Based on these examples, the student concludes the statement is 'Always True.' What common issue does this student's reasoning demonstrate?
 
-- [ ] Aliphatic rings contain nitrogen, while aromatic rings do not.
-- [ ] Aliphatic rings have only single bonds between carbons, while aromatic rings have alternating single and double bonds.
-- [ ] Aliphatic rings are always linear, while aromatic rings are are always closed loops.
-- [ ] Aliphatic rings are found in crude oil, while aromatic rings are only synthetic.
+- [ ] Does not properly distinguish between rational and irrational numbers.
+- [ ] Does not identify relevant formulas to use.
+- [ ] Empirical reasoning.
+- [ ] Does not provide examples.
 
 <details>
 <summary>View Answer & Explanation</summary>
 
-**Correct Answer:** Aliphatic rings have only single bonds between carbons, while aromatic rings have alternating single and double bonds.
+**Correct Answer:** Empirical reasoning.
 
-*Explanation: The document defines aliphatic hydrocarbons as having 'only single bonds' within their rings, while aromatic hydrocarbons consist of 'closed rings of carbon atoms that have alternating single and double bonds.'*
+*Explanation: Page T-3, in the 'Common issues' table, describes 'Empirical reasoning' as when a student 'provides examples that show the statement is not true and concludes that there are no values of a, b that make the statement true.' While the given examples for sum of irrationals don't show a 'false' case, the underlying issue is concluding 'Always True' based on a limited number of examples, rather than requiring a general proof, which is a hallmark of empirical reasoning in this context. For example, $\sqrt{2} + (5 - \sqrt{2}) = 5$, which is rational, proving the statement is only 'Sometimes True'.*
 
 </details>
 
 ---
 
-### 5. What is emphasized as crucial for the function of large biological molecules (macromolecules) that use hydrocarbons as their main structure?
+### 5. What is the primary content standard from the Common Core State Standards that this lesson unit addresses?
 
-- [ ] Their ability to dissolve in water.
-- [ ] Their constant state of rotation due to single bonds.
-- [ ] Their three-dimensional shape, or conformation.
-- [ ] Their lack of hydrogen atoms.
+- [ ] F-IF: Analyze functions using different representations.
+- [ ] N-RN: Use properties of rational and irrational numbers.
+- [ ] A-CED: Create equations that describe numbers or relationships.
+- [ ] G-SRT: Understand similarity in terms of similarity transformations.
 
 <details>
 <summary>View Answer & Explanation</summary>
 
-**Correct Answer:** Their three-dimensional shape, or conformation.
+**Correct Answer:** N-RN: Use properties of rational and irrational numbers.
 
-*Explanation: The document explicitly states, 'This three-dimensional shape, or conformation, of these large molecules (macromolecules) is crucial to how they function.'*
+*Explanation: Page T-1, under 'COMMON CORE STATE STANDARDS,' clearly states: 'This lesson relates to the following Standards for Mathematical Content... N-RN: Use properties of rational and irrational numbers.'*
 
 </details>
 

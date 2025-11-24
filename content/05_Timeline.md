@@ -2,62 +2,40 @@
 
 ---
 
-
 # Timeline of Discoveries
 
-## 1776: Discovery and isolation of methane gas
+## Around 3000 BCE: Early practical use of rational numbers (fractions) for trade and measurements by ancient civilizations.
 
-- **By:** Alessandro Volta
-- [Source](https://en.wikipedia.org/wiki/Alessandro_Volta)
-
----
-
-## 1825: Discovery and isolation of benzene
-
-- **By:** Michael Faraday
-- [Source](https://en.wikipedia.org/wiki/Michael_Faraday)
+- **By:** Ancient Babylonians and Egyptians
+- [Source](https://www.archaeologyinmarlow.org/post/ancient-civilizations-and-rational-numbers-evolution-impact)
 
 ---
 
-## 1855: Coining of the term 'aromatic' in a chemical context
+## 5th Century BCE: Discovery of irrational numbers, specifically the incommensurability of the diagonal of a square (e.g., square root of 2).
 
-- **By:** August Wilhelm Hofmann
-- [Source](https://en.wikipedia.org/wiki/Aromaticity)
-
----
-
-## 1865: Proposal of the cyclic structure of benzene
-
-- **By:** Friedrich August Kekulé
-- [Source](https://en.wikipedia.org/wiki/August_Kekul%C3%A9)
+- **By:** Hippasus of Metapontum
+- [Source](https://en.wikipedia.org/wiki/Hippasus)
 
 ---
 
-## 1874: Proposal of the tetrahedral carbon atom theory, explaining optical activity and 3D molecular structure
+## Around 300 BCE: Formalization of the study of ratios and proportions by ancient Greek mathematicians, distinguishing rational from irrational numbers.
 
-- **By:** Jacobus Henricus van 't Hoff, Joseph Achille Le Bel
-- [Source](https://pubmed.ncbi.nlm.nih.gov/39865545/)
-
----
-
-## 1916: Development of the concept of covalent bonding (electron pair sharing); term 'covalent bond' coined in 1919
-
-- **By:** Gilbert N. Lewis (concept), Irving Langmuir (term)
-- [Source](https://www.sciencehistory.org/distillations/gilbert-newton-lewis)
+- **By:** Euclid
+- [Source](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/rational-number)
 
 ---
 
-## 1916: Formulation of the octet rule
+## 1872: Introduction of Dedekind cuts, providing a rigorous construction and definition of real numbers from rational numbers, formally distinguishing rational and irrational numbers.
 
-- **By:** Gilbert N. Lewis, Walther Kossel
-- [Source](https://www.britannica.com/science/octet-in-chemistry)
+- **By:** Richard Dedekind
+- [Source](https://www.britannica.com/science/Dedekind-cut)
 
 ---
 
-## 1931: Development of Hückel's Rule for aromaticity
+## 2010: Release of the Common Core State Standards in Mathematics and English Language Arts to standardize K-12 educational expectations across U.S. states.
 
-- **By:** Erich Hückel
-- [Source](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/17%3A_Aromaticity/17.05%3A_Aromaticity_and_Huckel%27s_Rule)
+- **By:** National Governors Association (NGA) and Council of Chief State School Officers (CCSSO)
+- [Source](https://www.corestandards.org/about-the-standards/development-process/)
 
 ---
 

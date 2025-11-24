@@ -2,7 +2,6 @@
 
 Welcome to your generated study kit! This page is the central hub for all the content created from your document. Use the links below to navigate to the different sections.
 
-
 ## Core Content
 
 - [[00_Formal_Lesson_Plan|Formal Lesson Plan (Backward Design)]]
@@ -16,6 +15,7 @@ Welcome to your generated study kit! This page is the central hub for all the co
 - [[07_Hierarchical_Terms|Key Terms & Concepts]]
 - [[05_Timeline|Timeline of Discoveries]]
 - [[06_Applications|Real-World Applications]]
+- [[09_Study_Path_Index|In-depth Study Path]]
 
 ## Study Tools
 
@@ -27,6 +27,4 @@ Welcome to your generated study kit! This page is the central hub for all the co
 - [[10_MC_Quiz|Multiple Choice Quiz]]
 - [[11_TF_Quiz|True/False Quiz]]
 - [[12_SA_Quiz|Short Answer Quiz]]
-
-
 
